@@ -1,1 +1,1 @@
-# Basic-programs-in-C
+# Basic-programs-in-C for beginners in coding.
