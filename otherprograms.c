@@ -1,4 +1,4 @@
-//usage of getch and putch
+//using getch and putch
 #include <stdio.h>
 
 int main()
